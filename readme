@@ -1,0 +1,25 @@
+This analysis explores the frequency and distribution of 911 calls to identify temporal and categorical patterns for optimized resource allocation.
+
+Overall Call Reasons (Source: 911_c_p2.png):
+
+EMS (Emergency Medical Services) is the most common call reason (around 48,000), followed by Traffic (around 36,000) and Fire (around 15,000).
+
+Annual and Monthly Trends (Sources: 911_c_p6.png, 911_c_p7.png):
+
+The total number of calls per month shows a clear negative linear relationship (downward trend) over the course of a year, decreasing from over 13,000 calls in Month 1 to approximately 8,000 calls in Month 12.
+
+Call counts generally trend lower in the latter half of the year, with a noticeable drop between Month 7 and Month 8.
+
+Call Volume by Day of Week (Sources: 911_c_p3.png, 911_c_p5.png):
+
+EMS calls remain the highest category every day of the week, with relatively consistent volume.
+
+Traffic calls are highest on Fridays and Tuesdays and lowest on Sundays, suggesting a correlation with work commuting patterns.
+
+Fire calls show the lowest volume consistently throughout the week.
+
+Hourly/Daily Heatmap (Sources: 911_c_p9.png, 911_c_p10.png):
+
+The highest call volume (peak yellow areas) occurs consistently during the afternoon and early evening hours, specifically between 4 PM and 6 PM (Hours 16-18), across all days of the week.
+
+The lowest call volume occurs during the Early Morning hours (12 AM to 6 AM).
